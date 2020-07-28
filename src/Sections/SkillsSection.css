@@ -1,0 +1,17 @@
+.third{
+    background: #006169;
+}
+
+.cards-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+
+}
